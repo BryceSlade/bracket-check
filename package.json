@@ -1,0 +1,22 @@
+{
+  "name": "bracket-check",
+  "version": "1.0.0",
+  "description": "Unit test to check string for proper open and closing bracket usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceSlade/bracket-check.git"
+  },
+  "author": "Nelson (Bryce) Slade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryceSlade/bracket-check/issues"
+  },
+  "homepage": "https://github.com/BryceSlade/bracket-check#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
